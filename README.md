@@ -1,4 +1,14 @@
-# analysis_everpeak
+# EverPeak Retail Analysis 
+
+Este repositorio contiene el análisis realizado durante el Sprint 6 del caso EverPeak–SilverBasket. El dataset `everpeak_retail` incluye 2,000 órdenes de clientes con valores faltantes, sentinels, outliers y problemas de calidad diseñados para simular datos reales del retail. :contentReference[oaicite:2]{index=2}
+
+## 🧠 Objetivo del análisis
+
+- Identificar problemas de calidad de datos
+- Construir un pipeline de limpieza reproducible
+- Analizar comportamientos, distribuciones y outliers
+- Generar insights para el equipo de Estrategia e Integración de EverPeak
+
 Análisis Exploratorio de Datos para estudiar el comportamiento de indicadores o métricas específicas con estadistica descriptiva (resumen y presentación de variables a partir de valores) y Visualización.
 
 Contexto: El Banco Mundial es un organismo multinacional que brinda asistencia económica y financiera a sus estados asociados. Genera y publicar diversos indicadores macroeconómicos, sociales, demográficos y ambientales que permiten estudiar y contrastar la situación multidimensional entre países cuyo catálogo de información está en https://data.worldbank.org/.
